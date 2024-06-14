@@ -27,7 +27,7 @@
                 <li class="submenu">
                     <a href="#"><i data-feather="pie-chart"></i> <span> Pengawasan</span> <span class="menu-arrow"></span></a>
                     <ul>
-                        <li><a href="<?= base_url('pengawasan/IdDataUmum'); ?>">Data Umum</a></li>
+                        <li><a href="<?= base_url('pengawasan/dataUmum'); ?>">Data Umum</a></li>
                         <li><a href="<?= base_url('pengawasan/penciptaan'); ?>">Penciptaan</a></li>
                         <li><a href="<?= base_url('pengawasan/pemeliharaan'); ?>">Pemeliharaan</a></li>
                     </ul>

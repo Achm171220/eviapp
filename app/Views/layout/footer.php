@@ -21,7 +21,7 @@
 <script src="<?= base_url(); ?>/assets/assets/plugins/datatables/datatables.min.js"></script>
 <script src="<?= base_url(); ?>/assets/assets/plugins/moment/moment.min.js"></script>
 <script src="<?= base_url(); ?>/assets/assets/js/bootstrap-datetimepicker.min.js"></script>
-
+<script src="<?= base_url(); ?>/assets/assets/js/feather.min.js"></script>
 <script type="text/javascript">
     $('#tb_user').DataTable({
         processing: true,

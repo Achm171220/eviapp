@@ -9,7 +9,7 @@
     <link rel="shortcut icon" href="<?= base_url(); ?>/assets/assets/img/favicon.png">
 
     <link rel="stylesheet" href="<?= base_url(); ?>/assets/assets/css/bootstrap.min.css">
-
+    <link rel="stylesheet" href="<?= base_url(); ?>/assets/assets/plugins/icons/feather/feather.css">
     <link rel="stylesheet" href="<?= base_url(); ?>/assets/assets/plugins/fontawesome/css/fontawesome.min.css">
     <link rel="stylesheet" href="<?= base_url(); ?>/assets/assets/plugins/fontawesome/css/all.min.css">
 
